@@ -22,4 +22,4 @@ set confirm off
 set confirm on
 
 # Load application symbols
-file C:/Users/DELL/base_water_level_project_demo/build/water_level_sensor.elf
+file C:/Users/DELL/base_water_level_project_demo/build/water_level_project.elf

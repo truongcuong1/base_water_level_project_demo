@@ -10,7 +10,7 @@ C:/Users/DELL/base_water_level_project_demo/build/CMakeFiles/monitor.dir
 C:/Users/DELL/base_water_level_project_demo/build/CMakeFiles/flash.dir
 C:/Users/DELL/base_water_level_project_demo/build/CMakeFiles/encrypted-flash.dir
 C:/Users/DELL/base_water_level_project_demo/build/CMakeFiles/_project_elf_src.dir
-C:/Users/DELL/base_water_level_project_demo/build/CMakeFiles/water_level_sensor.elf.dir
+C:/Users/DELL/base_water_level_project_demo/build/CMakeFiles/water_level_project.elf.dir
 C:/Users/DELL/base_water_level_project_demo/build/CMakeFiles/size.dir
 C:/Users/DELL/base_water_level_project_demo/build/CMakeFiles/size-files.dir
 C:/Users/DELL/base_water_level_project_demo/build/CMakeFiles/size-components.dir

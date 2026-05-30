@@ -17,8 +17,8 @@ if("${CONFIG}" STREQUAL "" OR "${CONFIG}" STREQUAL "")
   "ldgen_libraries"
   "ldgen_libraries.in"
   "project_elf_src_esp32.c"
-  "water_level_sensor.bin"
-  "water_level_sensor.map"
+  "water_level_project.bin"
+  "water_level_project.map"
   "x509_crt_bundle.S"
   )
 endif()
